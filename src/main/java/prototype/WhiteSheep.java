@@ -1,4 +1,4 @@
-package protoype;
+package prototype;
 
 public class WhiteSheep implements Sheep {
     private String name;
